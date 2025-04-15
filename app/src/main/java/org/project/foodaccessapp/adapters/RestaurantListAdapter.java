@@ -53,17 +53,22 @@ public class RestaurantListAdapter extends RecyclerView.Adapter<RestaurantListAd
                 clickListener.onItemClick(restaurantModelList.get(position));
             }
         });
-        int num=R.drawable.logo;
+        int num=R.drawable.ic_launcher_background;
 
         switch (restaurantModel.getImage()){
             case "1":
-                num=R.drawable.logo;
+                num=R.drawable.image1;
+                break;
+
             case "2":
-                num=R.drawable.logo;
+                num=R.drawable.image111;
+                break;
             case "3":
-                num=R.drawable.logo;
+                num=R.drawable.mage6;
+                break;
             case "4":
-                num=R.drawable.logo;
+                num=R.drawable.image5;
+                break;
 
 
         }
