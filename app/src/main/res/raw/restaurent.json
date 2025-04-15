@@ -1,0 +1,237 @@
+[
+    {
+      "name":"Chicago's Pizza",
+      "address":"7225 W Harlem Ave.",
+      "delivery_charge": 5,
+      "image":"1",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Spaghetti",
+          "price": 10000,
+          "url": "11"
+        },
+        {
+          "name": "Spaghetti Pizza",
+          "price": 13000,
+          "url": "12"
+        },
+        {
+          "name": "Pizza",
+          "price": 49900,
+          "url": "13"
+        },
+        {
+          "name": "Cheese Sticks",
+          "price": 54000,
+          "url": "14"
+        },
+        {
+          "name": "CHICKEN FINGER SANDWICH",
+          "price": 40000,
+          "url": "15"
+        },
+        {
+          "name": "FINGERZ LUNCH",
+          "price": 32500,
+          "url": "16"
+        },
+        {
+          "name": "HOUSE SALAD",
+          "price": 54000,
+          "url": "17"
+        },
+        {
+          "name": "COBB",
+          "price": 39500,
+          "url": "18"
+        },
+        {
+          "name": "COOKIE ",
+          "price": 8900,
+          "url": "19"
+        },
+        {
+          "name": "PLATTER",
+          "price": 6000,
+          "url": "10"
+        }
+      ]
+    },
+    {
+      "name":"Chicken",
+      "address":"Katonga.",
+      "delivery_charge": 4000,
+      "image":"2",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Hot Dog",
+          "price": 2500,
+          "url": "20"
+        },
+        {
+          "name": "Cheese",
+          "price": 3500,
+          "url": "21"
+        },
+        {
+          "name": "Midway",
+          "price": 5000,
+          "url": "22"
+        },
+        {
+          "name": "Fries",
+          "price": 2000,
+          "url": "23"
+        },
+        {
+          "name": "Milkshake",
+          "price": 3900,
+          "url": "24"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 4500,
+          "url": "25"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 3900,
+          "url": "26"
+        },
+        {
+          "name": "Filet-O-Fish",
+          "price": 5900,
+          "url": "27"
+        },
+        {
+          "name": "McNuggets",
+          "price": 3000,
+          "url": "28"
+        },
+        {
+          "name": "Combo Meal",
+          "price": 9000,
+          "url": "29"
+        },
+        {
+          "name": "McMuffin Meal",
+          "price": 6900,
+          "url": "20"
+        }
+      ]
+    },
+  {
+    "name":"Gasline",
+    "address":"Masaka Rd.",
+    "delivery_charge": 5000,
+    "image":"3",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 4500,
+        "url": "30"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3900,
+        "url": "31"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5400,
+        "url": "32"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3000,
+        "url": "34"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8200,
+        "url": "35"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6900,
+        "url": "36"
+      }
+    ]
+  },
+  {
+    "name":"Equator",
+    "address":"kayabwe.",
+    "delivery_charge": 2000,
+    "image": "4",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4000,
+        "url": "40"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3500,
+        "url": "41"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 4000,
+        "url": "42"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3000,
+        "url": "43"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 1000,
+        "url": "44"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 4000,
+        "url": "45"
+      }
+    ]
+  }
+]
